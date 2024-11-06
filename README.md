@@ -1,4 +1,4 @@
-## Hi! I'm Maria Caterina✨
+# Hi! I'm Maria Caterina✨
 
 📚 currently master's student in computer science (specializing in cybersecurity) at [UniSa](https://www.unisa.it) 📚
 
@@ -28,9 +28,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-## 🌤️ contact me 🌤️
+# 🌤️ contact me 🌤️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([link-al-tuo-linkedin](https://www.linkedin.com/in/mariacaterinadaloia/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariacaterinadaloia/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariacaterinadaloia@gmail.com)
-

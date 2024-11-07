@@ -1,6 +1,6 @@
 # Hi! I'm Maria Caterina✨
 > "Computer science is no more about computers than astronomy is about telescopes."
->                                                                — Edsger Dijkstra
+>  Edsger Dijkstra
 
 📚 currently master's student in computer science (specializing in cybersecurity) at [UniSa](https://www.unisa.it) 📚
 

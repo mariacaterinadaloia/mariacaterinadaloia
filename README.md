@@ -1,4 +1,4 @@
-<p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&color=F76293&width=435&lines=I'm+Maria+Caterina;Welcome+to+my+GitHub!)](https://git.io/typing-svg) <\p>
+<p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&color=F76293&width=435&lines=I'm+Maria+Caterina;Welcome+to+my+GitHub!)](https://git.io/typing-svg) </p>
 
   
 > "Computer science is no more about computers than astronomy is about telescopes."

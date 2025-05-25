@@ -1,4 +1,4 @@
-# Hi! I'm Maria Caterina✨
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&color=F76293&width=435&lines=I'm+Maria+Caterina)](https://git.io/typing-svg)
 > "Computer science is no more about computers than astronomy is about telescopes."
 >
 > Edsger Dijkstra

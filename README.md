@@ -49,4 +49,3 @@
 
 ## 🧩Activity🧩
 <img src="https://raw.githubusercontent.com/mariacaterinadaloia/mariacaterinadaloia/output/snake.svg" alt="Snake animation" />
-###

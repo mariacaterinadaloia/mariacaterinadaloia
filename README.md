@@ -46,3 +46,7 @@
 
 ## 🌐Stats🌐
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariacaterinadaloia&hide_progress=true)
+
+## 🧩Activity🧩
+<img src="https://raw.githubusercontent.com/mariacaterinadaloia/mariacaterinadaloia/output/snake.svg" alt="Snake animation" />
+

@@ -5,14 +5,11 @@
 >
 > Edsger Dijkstra
 
-📚 currently master's student in computer science (specializing in cybersecurity) at [UniSa](https://www.unisa.it) 📚
+📚 I have a Master's Degree in Computer Science (specialized in cybersecurity) at [UniSa](https://www.unisa.it) 📚
 
 🩵 focusing on quantum cryptography, using AI to detect security flaws (such as in blockchains) and other things 🩵
 
-### 🌱 currently studying 🌱 
-- *Machine Learning* and *AI*
-- *Advanced Algorithms*
-  
+
 ### ⚡️what I've learned so far⚡️
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)

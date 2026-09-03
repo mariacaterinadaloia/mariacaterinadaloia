@@ -4,7 +4,7 @@
 > "Computer science is no more about computers than astronomy is about telescopes."
 >
 > Edsger Dijkstra
-
+🎓 Currently a PhD Candidate 🎓
 📚 I have a Master's Degree in Computer Science (specialized in cybersecurity) at [UniSa](https://www.unisa.it) 📚
 
 🩵 focusing on quantum cryptography, using AI to detect security flaws (such as in blockchains) and other things 🩵
